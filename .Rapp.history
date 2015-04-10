@@ -1,0 +1,8 @@
+getwd()
+X <- 1:32
+X
+X
+X
+library(swirl)
+rm(list=ls())
+swirl()
